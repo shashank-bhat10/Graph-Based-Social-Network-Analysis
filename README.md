@@ -67,7 +67,7 @@ Betweenness centrality identifies users that act as bridges between different pa
 
 - Python
 - NetworkX
-- Hadoop HDFS environment
+- Hadoop HDFS environment for dataset/storage setup
 - Git / GitHub
 
 ## Results
@@ -122,8 +122,8 @@ The generated social network graph is available in:
 
 ### 1. Clone the repository
 
-    git clone <repository-url>
-    cd graph-based-social-network-analysis
+    git clone https://github.com/shashank-bhat10/Graph-Based-Social-Network-Analysis.git
+    cd Graph-Based-Social-Network-Analysis
 
 ### 2. Install the required package
 
